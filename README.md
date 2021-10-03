@@ -8,5 +8,5 @@
 
 我的信箱:sean.cheng228@gmail.com
 
-github index URL:[INDEX](file:///D:/chrome_download/CGhws/index.html)
+github index URL:https://sean880228.github.io/CGhws/index.html
 # CGhws
